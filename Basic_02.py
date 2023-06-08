@@ -4,8 +4,10 @@
 class Basic_02:
     def __init__(self):
         # self.Review_Python_01();
-        self.Basic_Python_01();
-        self.Basic_Python_02();
+        # self.Basic_Python_01();
+        # self.Basic_Python_02();
+        # self.Basic_Python_03();
+        self.Basic_Python_04();
 
     # 복습 파일명: Review_***
     def Review_Python_01(self):
@@ -330,3 +332,21 @@ class Basic_02:
         print(a + b)  # 37, 29 -> 66
         a, b = map(int, input("숫자 두 개를 입력하세요 (콤마(,) 구분): ").split(','))
         print(a + b)  # 37, 29 -> 66
+        
+    def Basic_Python_04(self):
+        # 출력
+        a = 1; b = 2; c = 3
+        print(a,b,c)        # 똑같은 결과 1 2 3
+        print(a, b, c)      # 똑같은 결과 1 2 3
+
+        # sep='구분자'
+        print(a,b,c)        # 1 2 3
+        print(a,b,c, sep='') # 123
+
+        # end='마무리'
+        print(a,b,c, end='\t')
+        print(a,b,c) # 1 2 3 \t 1 2 3
+
+        # 천단위 구분기호
+        print(1000000)      # 똑같은 결과 1000000
+        print(1_000_000)    # 똑같은 결과 1000000
