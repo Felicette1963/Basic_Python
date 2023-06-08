@@ -282,3 +282,51 @@ class Basic_02:
         x = -10
         print(+x, -x)  # -10, 10.
         print(x * 1, x * (-1))
+
+    def Basic_Python_03(self):
+        # 입력받기
+        # input 함수 사용한다.
+        # a = input(); # a라는 변수에 input(입력)을 한다.
+        # print(a);   # 출력
+
+        # x = input("입력하시겠습니까?"); #x라는 변수에 input(입력)을 한다.
+        # print(x)    #출력
+
+        # a = input("첫번째 숫자 입력:") # 17
+        # b = input("두번째 숫자 입력:") # 31
+        # 계산결과 1731: input(변수) 변수 => str 값을 가지기 때문
+        # print(a+b);
+
+        # a = int(input("첫번째 숫자 입력:")) # 17
+        # b = int(input("두번째 숫자 입력:")) # 31
+        # 계산결과 48: int(input(변수)) 변수 => int 값을 가지기 때문
+        # print(a + b);
+
+        # 두수 이상을 입력 받기
+        # a, b = input('문자열 두개를 입력하세요: ').split(',')
+        # 입력: 화단, 콤보
+        # print(a,b);
+        # 출력: 화단콤보
+
+        # 세수 이상을 입력 받기
+        '''
+        a, b, c = input('문자열 두개를 입력하세요: ').split()
+        print(a)
+        print(b)
+        print(c)
+        '''
+
+        # map을 사용하여 정수로 변환
+        # map -> 지도. / 사상. -> 2개 이상 쌍을 짝짓는다
+        '''
+        map에 int와 input().split()을 넣으면 split의 결과를 모두 int로 변환(실수로 변환할 때는 int 대신 float를 넣음)
+        변수1, 변수2 = map(int, input().split()) # space -> 공백으로 구분되어 있다면 각각 쪼개주는 역할
+        변수1, 변수2 = map(int, input().split('기준문자열'))
+        변수1, 변수2 = map(int, input('문자열').split())
+        변수1, 변수2 = map(int, input('문자열').split('기준문자열'))
+        '''
+        # map(짝지을 함수이름, 대상이 되는 여러 값들)
+        a, b = map(int, input("숫자 두 개를 입력하세요 (스페이스로 구분): ").split())
+        print(a + b)  # 37, 29 -> 66
+        a, b = map(int, input("숫자 두 개를 입력하세요 (콤마(,) 구분): ").split(','))
+        print(a + b)  # 37, 29 -> 66

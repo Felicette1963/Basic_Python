@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산">
+    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_02.py" afterDir="false" />
     </list>
@@ -101,11 +101,19 @@
       <option name="project" value="LOCAL" />
       <updated>1686192298952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력">
+      <created>1686206074157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686206074157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산" />
+    <MESSAGE value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력" />
   </component>
 </project>
