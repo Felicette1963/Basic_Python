@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +94,18 @@
       <option name="presentableId" value="Default" />
       <updated>1686122056499</updated>
     </task>
+    <task id="LOCAL-00001" summary="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산">
+      <created>1686192298952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686192298952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산" />
   </component>
 </project>
