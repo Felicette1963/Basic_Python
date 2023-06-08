@@ -1,4 +1,5 @@
 
+# 2023-06-07 일자 수업
 class Basic_01:
     def __init__(self):
         # self.Basic_Python_01();
