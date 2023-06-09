@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력">
+    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 8일 오후 4시 52분 업데이트 - 복습 및 숫자계산 및 변수 입력, print문">
+      <change afterPath="$PROJECT_DIR$/Basic_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/MSI/Desktop/Programing/PlayData/Python/Pratics/Basic_Python/main.py",
+    "last_opened_file_path": "C:/Users/MSI/Desktop/Programing/PlayData/Python/Pratics/Basic_Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -115,12 +116,31 @@
       <option name="project" value="LOCAL" />
       <updated>1686209288109</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2023년 6월 8일 오후 4시 52분 업데이트 - 복습 및 숫자계산 및 변수 입력, print문">
+      <created>1686210744673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686210744673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산" />
     <MESSAGE value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 8일 11시 44분 업데이트 - 복습 및 숫자계산 및 변수 입력" />
+    <MESSAGE value="2023년 6월 8일 오후 4시 52분 업데이트 - 복습 및 숫자계산 및 변수 입력, print문" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 8일 오후 4시 52분 업데이트 - 복습 및 숫자계산 및 변수 입력, print문" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_03.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
