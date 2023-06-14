@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 12일 오후 5시 28분 업데이트 - 반복문">
-      <change afterPath="$PROJECT_DIR$/Basic_05.py" afterDir="false" />
+    <list default="true" id="5effaaa1-8af7-42a6-872c-255aeed1d71b" name="변경" comment="2023년 6월 12일 오후 5시 28분 업데이트 - 복습 / 반복문">
+      <change afterPath="$PROJECT_DIR$/Basic_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -36,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/MSI/Desktop/Programing/PyCharm/Pratics/ADsP",
+    "last_opened_file_path": "C:/Users/MSI/Desktop/Programing/PlayData/Python/Pratics/Basic_Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686558187248</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023년 6월 12일 오후 5시 28분 업데이트 - 복습 / 반복문">
+      <created>1686644987961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686644987961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,7 +154,8 @@
     <MESSAGE value="2023년 6월 9일 오후 4시 25분 업데이트 - 복습 및 Bool, 비교연산자, 문자열, 리스트와 튜플 내용" />
     <MESSAGE value="2023년 6월 9일 오후 5시 22분 업데이트 - IF, 딕셔너리, 인덱스 슬라이싱, 시퀀스 자료형" />
     <MESSAGE value="2023년 6월 12일 오후 5시 28분 업데이트 - 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 12일 오후 5시 28분 업데이트 - 반복문" />
+    <MESSAGE value="2023년 6월 12일 오후 5시 28분 업데이트 - 복습 / 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023년 6월 12일 오후 5시 28분 업데이트 - 복습 / 반복문" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -161,6 +169,11 @@
           <url>file://$PROJECT_DIR$/Basic_03.py</url>
           <line>10</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_06.py</url>
+          <line>451</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
